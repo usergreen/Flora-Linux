@@ -1,0 +1,13 @@
+Changelog:
+
+Modified from the official MX-21.2.1_x64.iso
+
+Added Japanese locale along with Japanese input.
+
+Removed mx-welcome splash screen to remove MX Linux logo.
+
+Removed thunderbird and installed sylpheed instead.
+
+Updated to the up-to-date MX-21.2.1 so far.
+
+End.

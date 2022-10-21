@@ -1,0 +1,9 @@
+Changelog:
+
+Updated Live USB Kernel
+
+Removed older kernel from the system to reduce filesize.
+
+Removed default theme during boot process.
+
+End.

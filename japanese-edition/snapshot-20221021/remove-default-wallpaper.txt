@@ -1,0 +1,26 @@
+demo@mx1:~
+$ cd /usr/share/backgrounds
+demo@mx1:/usr/share/backgrounds
+$ ls
+Angles2.jpg                       Material_MX_Infinity_Black.png   Spring_Is_Coming.jpg
+Big_Bee.jpg                       mx21-wallpapers-attribution.txt  Stable.jpg
+Blue_Valves.jpg                   mx-dots.jpeg                     Sunrise_At_6.jpg
+Ceiling.jpg                       MX_KXF_Blues.jpg                 Surfing_With_The_Dolphin.jpg
+Farewell_To_Ugly_Duckling.jpg     mx-spotlight.jpeg                Surrounded_By_The_Sun.jpg
+Far_In_Advance.jpg                MX_Tangram.png                   The_Bridge_In_Bardo.jpg
+Flowers.jpg                       Rapeseed_Field.jpg               The_Sun_Shines_Through.jpg
+Honesty.jpg                       Reflection.jpg                   Tulip.jpg
+honesty-muted.jpg                 Saint-Die_Cathedral.jpg          Vision.jpg
+Ice.jpg                           Shore_Rocks.jpg                  Wildflowers2.jpg
+IMG_0003.jpg                      Simple_Bulb_Glow.jpg             xfce
+IMG_0003.svg                      Sprig.jpg                        Yellow.jpg
+Justify.jpg                       Spring_Blossoms.jpg
+Maarten_Deckers-Architecture.jpg  Spring_Greeting.jpg
+demo@mx1:/usr/share/backgrounds
+$ su
+Password: 
+root@mx1:/usr/share/backgrounds# rm Honesty.jpg honesty-muted.jpg
+root@mx1:/usr/share/backgrounds# exit
+exit
+demo@mx1:/usr/share/backgrounds
+$ 
