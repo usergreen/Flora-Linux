@@ -6,5 +6,7 @@ This is a project to develop Linux distribution based upon Debian and MX Linux.
 In short, it is a hybrid re-spin ISO of Debian stabe and MX.
 I have adopted a picture of flowers as Desktop wallpaper on the last release, that is why it is named Flora Linux.
 
+There is no source-level modification, because I think it important to end-users that this distribution should completelty compatible with upsream distribution such as Debian and MX Linux. 
+
 After all, this is a derivative of Debian and MX for end users of Linux Desktop.
 
