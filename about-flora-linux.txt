@@ -1,6 +1,7 @@
 Adopted "Flora Linux" as a new project name
 
 2022-10-19
+updated: 2022-10-22
 
 This is a project to develop Linux distribution based upon Debian and MX Linux.
 In short, it is a hybrid re-spin ISO of Debian stabe and MX.
