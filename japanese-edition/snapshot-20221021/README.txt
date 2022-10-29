@@ -1,5 +1,7 @@
 2022-10-21 01:23 JST
-updated: 2022-10-21 13:06 JST
+updated: 2022-10-29 15:48 JST
+
+This is a definite Japanese Edition with Xfce Desktop, because once the Live ISO starts up everything is ready to use in Japanese language environment. Besides, you are free to choose any keyboard layout of your own.
 
 Read this README.txt file first, before using this snapshot for x64 architecture.
 The ISO image can be used as Live USB/DVD or for HDD installation.
