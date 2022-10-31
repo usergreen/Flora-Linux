@@ -1,0 +1,8 @@
+PRETTY_NAME="MX 21.2.1 Wildflower"
+DISTRIB_ID=MX
+DISTRIB_RELEASE=21.2.1 
+DISTRIB_CODENAME="Wildflower"
+DISTRIB_DESCRIPTION="MX 21.2.1 Wildflower"
+
+### automatic change of the previous /etclsb-release by MX-Snapshot
+
