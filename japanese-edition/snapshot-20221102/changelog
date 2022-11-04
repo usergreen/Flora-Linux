@@ -1,0 +1,13 @@
+Changelog:
+
+Adopted Zstandard compression instead of LZ4
+
+Reinstalled Thunderebird mailer as the official ISO includes.
+
+Updated translation
+
+Changed default locale from ja_JP.UTF-8 to none to avoid garbling of characters in xfce terminal during non-ja locale.
+
+Updated to up-to-date official base as of 2022-11-02
+
+END.
