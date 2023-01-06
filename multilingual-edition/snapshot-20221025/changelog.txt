@@ -1,9 +1,0 @@
-Changelog:
-
-This is a minor fix version.
-
-Added missing Greek support for Firefox and LibreOffice.
-
-Updated to the up-to-date base as of 2022-10-25
-
-End.

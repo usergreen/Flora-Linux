@@ -1,7 +1,0 @@
-Changed from Japanese Edition:
-
-Added Chinese input method
-
-Added many locales besides English and Japanese.
-
-End.
