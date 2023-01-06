@@ -1,0 +1,19 @@
+Changelog:
+
+This snapshot has a custom desktop view by MX tweaks, etc.
+The following tweaks have been done.
+
+The default desktop wallpaper (backgroud) was was replaced with another.
+Added Window buttons on the panel, by which you can switch plural running windows.
+
+The following changings have been also added to look like Windows XP desktop.
+
+Desktop settings:
+Added icons for Home, File System, Trash, Removal Device.
+Display panel from vertically to horizontally.
+Disable single-click on desktop
+Disable single-click in on Thunar File Manager
+(Changed default from single-click to double-click)
+
+End.
+
