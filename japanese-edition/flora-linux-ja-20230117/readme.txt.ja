@@ -1,0 +1,58 @@
+2023年1月17日　日本時間16時30分
+
+このファイルの以下の記述は readme.txt の日本語版です。
+
+このISOイメージでは、Windows XP ライクなデスクトップ表示と操作感を持たせる目的から、シングルクリックではなく、ダブルクリックを採用しました。Live ISO を起動すれば、あとはすべて日本語の環境で使用することができます。キーボードの配列は標準の日本語に設定してあります。もしお使いのキーボードが他のレイアウトのときは設定メニューで自由に変更することが可能です。
+
+さて、このダウンロード用のISOイメージは、64ビットアーキテクチャー用に作成されています。 Live USB/DVD として、あるいはパソコン本体のハードディスクへインストールして使うことができます。お使いになる前に、以下の説明をお読みください。
+
+なお、このスナップショットは元々 MX Linux が2022年9月18日付けで公式に配布した MX-21.2.1_x64 Wildflower を利用して作成しましたが、最新版へと更新した結果、起動時の画面にFlora-Linux-ja-21.3_x64 (bullseye-11.6), １月 17, 2023" と表示されます。
+
+ユーザー: demo
+Demo のパスワード: demo
+管理者権限のパスワード: root
+
+起動時の既定パラメータ:
+quiet lang=ja_JP kbd=jp tz=Asia/Tokyo
+
+** Downloading sites
+この最新版は左記のアドレスから入手してください。　https://sourceforge.net/projects/flora-linux/
+
+** この原盤となったソースについて"
+下記の公式版を元にして作成しました：
+MX-21.2.1_x64 Wildflower 18 September 2022
+ダウンロード元のアドレス：
+https://ftp.riken.jp/Linux/mxlinux-iso/MX/Final/Xfce/
+
+** 標準の言語と地域の設定について (L10n)
+既定のロケールは ja_JP.UTF-8 - 日本語です。
+
+Note:
+You can change to whatever locale you want to use at Boot Menu. And also to change another locale after system booting, logout a present desktop session. Then, click on the upper right corner on the login screen, and choose a locale from a drop-down list. Simply logout and then login again can change a locale for a desktop session.
+注記
+起動時に立ち上がる最初のメニューより、使用する言語の設定はユーザーが自由に変更することができます。したがって、このバージョンは日本語専用というわけではありません。ステム起動後に別のロケールに変更するには、一度お使いのデスクトップセッションをログアウトしてください。ログイン画面の右上をクリックし、そこに表示された一覧表から選択します。一度ログアウトして、再びログインするだけで、新規のデスクトップセッションにロケールの変更が反映します。
+
+
+** Multilingualization (m17n) support　多言語化対応について
+In order to enable Japanese input, click IME toolbar which appears at the same place. Then select item "Anthy". Now you can start Japanese input by pressing Shift + Space key, or alternatively "半/全 漢字" key if your keyboard is Japanese layout.
+To return to previous (direct) mode, just press the same key.
+If you need another input method for many other languages, add m17n support by installing uim-m17nlib package as follows:
+ # apt install uim-m17nlib
+
+** About Universal Input Method (uim)　ユニバーサル言語入力方式 (uim) について
+Uim is an input method module library which supports various scripts and can act as a front end for a range of input methods, including Anthy, Canna, or SKK (for Japanese), Pinyin (for Chinese), Byeoru (for Korean), and M17n (for many other languages). Most of its functions are implemented in Scheme, so it's very simple and flexible.
+
+If you want to use UimToolbar utilities, which shows and controls uim mode, for system tray, add the following, too.
+
+ $ uim-toolbar-gtk3-systray &
+
+** Terms of use
+See https://mxlinux.org/terms-of-use/
+"Anyone distributing a respin that we do not host ourselves must specify that it is a respin in the names of a website, ISO or download location. For example: mx-respin. Furthermore, it must be specified clearly somewhere that products are based on MX Linux but are not connected with it in any official way.
+The name "MX Linux" may not be used as part of a respin-project's website title or in the project's iso/media without making clear that the it is not an official part of MX Linux."
+
+This Live ISO image was released in a hope that it would be useful. Therefore you are allowed to redistribute or modify under the GNU General Public License v.3. Its full text can be found both at https://www.gnu.org/licenses/gpl-3.0.html and onboard at /usr/share/common-licenses/GPL-3. But please be noted that the trademark "MX Linux" and its logo exclusively belong to MX Linux Dev Team, which means it is firmly prohibited for commercial usage without permission.
+
+README.txt was created and written
+by Green
+
