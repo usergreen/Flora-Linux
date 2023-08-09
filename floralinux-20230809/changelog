@@ -1,0 +1,12 @@
+Changelog:
+
+2023-08-09 10:45 UTC
+This is a minor fixed version;
+Added missing Chinese and Japanese packages for input methods
+
+2023-08-09 02:30 UTC
+The ISO file is a re-spin of the Official MX-23_x64, based on Debian 12.1 point release.
+
+A custom wallpaper has been set instead of the official default. You are free to change it by Desktop preferences.
+
+End.
